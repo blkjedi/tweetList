@@ -1,6 +1,6 @@
 .container{
-    display:flex;
-    flex-direction: column;
+    /* display:flex; */
+    /* flex-direction: column; */
     padding: 15px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 
@@ -9,12 +9,16 @@
 .button{
     
     padding: 15px;
-    color: rgb(223, 211, 211);
+    color: rgb(20, 236, 208);
     background-color: rgb(9, 34, 143);
+    margin: 10px;
 }
 
 .title{
     font-family: Georgia, 'Times New Roman', Times, serif;
 
     color: blue;
+}
+.heart{
+    display: flex;
 }
